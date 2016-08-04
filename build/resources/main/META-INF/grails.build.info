@@ -1,0 +1,6 @@
+#Thu, 04 Aug 2016 08:29:51 -0500
+
+info.app.version=0.1
+info.app.name=issueexample
+grails.env=production
+info.app.grailsVersion=3.1.9
